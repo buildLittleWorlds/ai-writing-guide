@@ -1,5 +1,5 @@
 ---
-title: AI Writing Guide
+title: AI Writing with Style
 description: A comprehensive guide to personas and stylistic curation for AI-assisted writing
 template: splash
 hero:

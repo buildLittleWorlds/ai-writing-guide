@@ -8,7 +8,7 @@ export default defineConfig({
     astroExpressiveCode(),
     mdx(),
     starlight({
-      title: 'AI Writing Guide',
+      title: 'AI Writing with Style',
       description: 'A comprehensive guide to AI-assisted writing styles and persona curation',
       social: [
         { label: 'GitHub', icon: 'github', href: 'https://github.com/yourusername/ai-writing-guide' },
