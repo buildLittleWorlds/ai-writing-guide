@@ -62,6 +62,22 @@ export default defineConfig({
             { label: 'Quotation Analysis', link: '/examples/quotation-analysis/' },
           ],
         },
+        {
+          label: 'Persona Demonstrations',
+          items: [
+            { label: 'Overview', link: '/persona-demonstrations/' },
+            { label: 'Precisionist Observer Analysis', link: '/persona-demonstrations/precisionist-observer-analysis/' },
+            { label: 'Intimate Confidante Analysis', link: '/persona-demonstrations/intimate-confidante-analysis/' },
+            { label: 'Authoritative Expert Analysis', link: '/persona-demonstrations/authoritative-expert-analysis/' },
+            { label: 'Passionate Advocate Analysis', link: '/persona-demonstrations/passionate-advocate-analysis/' },
+            { label: 'Contemplative Inquirer Analysis', link: '/persona-demonstrations/contemplative-inquirer-analysis/' },
+            { label: 'Engaging Narrator Analysis', link: '/persona-demonstrations/engaging-narrator-analysis/' },
+            { label: 'Witty Commentator Analysis', link: '/persona-demonstrations/witty-commentator-analysis/' },
+            { label: 'Formal Moralist Analysis', link: '/persona-demonstrations/formal-moralist-analysis/' },
+            { label: 'Philosophical Investigator Analysis', link: '/persona-demonstrations/philosophical-investigator-analysis/' },
+            { label: 'Systems Explainer Analysis', link: '/persona-demonstrations/systems-explainer-analysis/' },
+          ],
+        },
       ],
       customCss: [
         // Path to your custom CSS file
