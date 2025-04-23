@@ -58,6 +58,23 @@ export default defineConfig({
           label: 'Resources',
           items: [
             { label: 'Overview', link: '/resources/' },
+            {
+              label: 'Persona Prompts',
+              items: [
+                { label: 'Prompting Guide', link: '/resources/persona-prompts/' },
+                { label: 'Precisionist Observer', link: '/resources/persona-prompts/precisionist-observer-prompt/' },
+                { label: 'Intimate Confidante', link: '/resources/persona-prompts/intimate-confidante-prompt/' },
+                { label: 'Authoritative Expert', link: '/resources/persona-prompts/authoritative-expert-prompt/' },
+                { label: 'Passionate Advocate', link: '/resources/persona-prompts/passionate-advocate-prompt/' },
+                { label: 'Contemplative Inquirer', link: '/resources/persona-prompts/contemplative-inquirer-prompt/' },
+                { label: 'Engaging Narrator', link: '/resources/persona-prompts/engaging-narrator-prompt/' },
+                { label: 'Witty Commentator', link: '/resources/persona-prompts/witty-commentator-prompt/' },
+                { label: 'Formal Moralist', link: '/resources/persona-prompts/formal-moralist-prompt/' },
+                { label: 'Philosophical Investigator', link: '/resources/persona-prompts/philosophical-investigator-prompt/' },
+                { label: 'Systems Explainer', link: '/resources/persona-prompts/systems-explainer-prompt/' },
+              ]
+            },
+
             { 
               label: 'Essay Writing with Personas',
               items: [
@@ -87,33 +104,21 @@ export default defineConfig({
                 { label: 'Systems Explainer', link: '/resources/literary-analysis/systems-explainer-analysis/' },
               ]
             },
-            {
-              label: 'Persona Prompts',
-              items: [
-                { label: 'Prompting Guide', link: '/resources/persona-prompts/' },
-                { label: 'Precisionist Observer', link: '/resources/persona-prompts/precisionist-observer-prompt/' },
-                { label: 'Intimate Confidante', link: '/resources/persona-prompts/intimate-confidante-prompt/' },
-                { label: 'Authoritative Expert', link: '/resources/persona-prompts/authoritative-expert-prompt/' },
-                { label: 'Passionate Advocate', link: '/resources/persona-prompts/passionate-advocate-prompt/' },
-                { label: 'Contemplative Inquirer', link: '/resources/persona-prompts/contemplative-inquirer-prompt/' },
-                { label: 'Engaging Narrator', link: '/resources/persona-prompts/engaging-narrator-prompt/' },
-                { label: 'Witty Commentator', link: '/resources/persona-prompts/witty-commentator-prompt/' },
-                { label: 'Formal Moralist', link: '/resources/persona-prompts/formal-moralist-prompt/' },
-                { label: 'Philosophical Investigator', link: '/resources/persona-prompts/philosophical-investigator-prompt/' },
-                { label: 'Systems Explainer', link: '/resources/persona-prompts/systems-explainer-prompt/' },
-              ]
-            },
-            { label: 'Author Guidelines', link: '/resources/author-guidelines/' }
+            // { label: 'Author Guidelines', link: '/resources/author-guidelines/' }
           ]
         },
+        // {
+        //   label: 'Examples',
+        //   items: [
+        //     { label: 'Overview', link: '/examples/' },
+        //     { label: 'Quotation Analysis', link: '/examples/quotation-analysis/' },
+        //     { label: 'Example Paper', link: '/examples/example-paper/' },
+        //   ],
+        // },
         {
-          label: 'Examples',
-          items: [
-            { label: 'Overview', link: '/examples/' },
-            { label: 'Quotation Analysis', link: '/examples/quotation-analysis/' },
-            { label: 'Example Paper', link: '/examples/example-paper/' },
-          ],
-        },
+          label: 'Conclusion',
+          link: '/conclusion/'
+        }
       ],
       customCss: [
         './src/styles/custom.css',

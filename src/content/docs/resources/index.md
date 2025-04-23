@@ -3,20 +3,41 @@ title: Resources
 description: Comprehensive resources for understanding and applying prose personas in AI-assisted writing
 ---
 
-## AI Writing Guide Resources
+## Curating for AI Writing Excellence
 
-This section provides three essential types of resources for mastering the art of AI-assisted writing:
+The resources in this section provide practical tools and examples for effectively guiding AI writing based on our dual curation approach:
 
-### 1. [Persona Demonstrations](/resources/persona-demonstrations/)
-Literary analyses of Hawthorne's "Rappaccini's Daughter" demonstrating each persona in action. These concrete examples show how the ten prose personas approach the same subject matter, making the distinct characteristics of each voice clear through direct comparison.
+1. **Research-Side Curation**: Gathering high-quality content (facts, evidence, specialized information) to inform your writing's substance
+2. **Author-Side Curation**: Collecting examples of linguistic patterns from skilled writers to shape your stylistic approach
 
-### 2. [Persona Prompts](/resources/persona-prompts/)
-Detailed AI prompts for each persona that you can use to guide AI writing tools. These prompts specify the linguistic patterns, stylistic choices, and writing approaches that define each persona, providing ready-to-use templates for AI collaboration.
+### Breaking the Generic AI Voice
 
-### 3. [Author Guidelines](/resources/author-guidelines/)
-A curated collection of writers exemplifying different stylistic approaches, organized by persona. This resource helps you find additional examples for author-side curation and supports your development of sophisticated, adaptable authorial voices.
+One of the most common complaints about AI-generated writing is its tendency toward generic, flavorless prose—what many recognize as the "AI voice." This problem stems from two primary sources:
 
-These resources work together to help you:
-- Understand each persona through concrete examples
+- **Inadequate context**: Without specific, high-quality examples, AI systems default to the statistical middle of their training distribution
+- **Vague guidance**: General instructions like "write formally" or "use an academic tone" leave too much room for interpretation
+
+The resources in this section provide concrete examples of distinctive authorial voices and practical tools to overcome these limitations.
+
+## Three Essential Resources
+
+### 1. [Persona Prompts](/resources/persona-prompts/)
+Ready-to-use AI prompts for each persona that specify the exact linguistic patterns, stylistic choices, and writing approaches that define each voice. These prompts provide templates you can adapt for your own AI writing collaborations.
+
+### 2. [Essay Writing with Personas](/resources/essay-writing/)
+A sequential dialogue exploring customized reality from seven different persona perspectives. This demonstration shows how different personas can work together to build a complex, multi-faceted argument, with each voice contributing its unique strengths.
+
+### 3. [Literary Analysis with Personas](/resources/literary-analysis/)
+Analyses of Hawthorne's "Rappaccini's Daughter" demonstrating how each persona approaches the same subject matter. These parallel examples highlight the distinct characteristics of each voice through direct comparison on identical content.
+
+## From Theory to Practice
+
+These resources bridge the gap between the theoretical framework outlined in the Persona Toolkit and Personas sections and the practical application of these concepts in your own writing.
+
+By studying these examples and using these tools, you can:
+- Understand each persona through concrete demonstrations
 - Effectively prompt AI tools to achieve specific stylistic outcomes
-- Build your own library of exemplary writing for ongoing style development
+- Learn to orchestrate multiple personas for complex writing projects
+- Develop your own library of exemplary patterns for ongoing stylistic refinement
+
+The integration of research-side and author-side curation creates writing that avoids the generic "AI voice" and instead delivers content that is both substantively rich and stylistically distinctive.

@@ -25,9 +25,10 @@ This guide is organized into several key sections:
 
 3. **Research Insights**: Findings from empirical studies on effectively controlling LLM output through in-context examples.
 
-4. **Author Resources**: A curated list of writers and works exemplifying different stylistic approaches.
-
-5. **Examples**: Practical demonstrations of these concepts in action.
+4. **Resources**: Practical tools and examples for applying these concepts in AI-assisted writing, including:
+   - **Persona Prompts**: Ready-to-use instructions for guiding AI toward specific voices
+   - **Essay Writing with Personas**: A sequential dialogue demonstrating how different personas can work together
+   - **Literary Analysis with Personas**: Parallel analyses showing how each persona approaches the same subject
 
 ## Suggested Learning Path
 
@@ -35,8 +36,10 @@ If you're new to these concepts, we recommend:
 
 1. Start by exploring the [Persona Toolkit](/persona-toolkit/) to understand the basic building blocks of style
 2. Review the [Prose Personas](/personas/) to see how these elements combine into recognizable voices
-3. Study the [Examples](/examples/) to see these concepts applied in real writing
-4. Explore the [Research](/research/) to understand the theory behind controlling AI output
-5. Use the [Author Resources](/author-resources/) to find inspiration for your own stylistic curation
+3. Explore the [Research](/research/) to understand the theory behind controlling AI output
+4. Use the [Resources](/resources/) section to see practical applications and ready-to-use tools:
+   - Utilize the [Persona Prompts](/resources/persona-prompts/) to guide AI tools toward your desired style
+   - Examine the [Essay Writing sequence](/resources/essay-writing/) to learn how different personas can work together
+   - Study the [Literary Analysis examples](/resources/literary-analysis/) to see how each persona approaches identical content
 
 Remember, the goal isn't to rigidly adhere to a single persona but to develop a nuanced understanding of stylistic techniques that allows you to guide AI tools in supporting your unique voice.
