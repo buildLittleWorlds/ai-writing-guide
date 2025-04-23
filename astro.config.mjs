@@ -59,19 +59,32 @@ export default defineConfig({
           items: [
             { label: 'Overview', link: '/resources/' },
             { 
-              label: 'Persona Demonstrations',
+              label: 'Essay Writing with Personas',
               items: [
-                { label: 'Literary Analysis Overview', link: '/resources/persona-demonstrations/' },
-                { label: 'Precisionist Observer', link: '/resources/persona-demonstrations/precisionist-observer-analysis/' },
-                { label: 'Intimate Confidante', link: '/resources/persona-demonstrations/intimate-confidante-analysis/' },
-                { label: 'Authoritative Expert', link: '/resources/persona-demonstrations/authoritative-expert-analysis/' },
-                { label: 'Passionate Advocate', link: '/resources/persona-demonstrations/passionate-advocate-analysis/' },
-                { label: 'Contemplative Inquirer', link: '/resources/persona-demonstrations/contemplative-inquirer-analysis/' },
-                { label: 'Engaging Narrator', link: '/resources/persona-demonstrations/engaging-narrator-analysis/' },
-                { label: 'Witty Commentator', link: '/resources/persona-demonstrations/witty-commentator-analysis/' },
-                { label: 'Formal Moralist', link: '/resources/persona-demonstrations/formal-moralist-analysis/' },
-                { label: 'Philosophical Investigator', link: '/resources/persona-demonstrations/philosophical-investigator-analysis/' },
-                { label: 'Systems Explainer', link: '/resources/persona-demonstrations/systems-explainer-analysis/' },
+                { label: 'Overview', link: '/resources/essay-writing/' },
+                { label: 'Intimate Confidante', link: '/resources/essay-writing/intimate-confidante/' },
+                { label: 'Witty Commentator', link: '/resources/essay-writing/witty-commentator/' },
+                { label: 'Contemplative Inquirer', link: '/resources/essay-writing/contemplative-inquirer/' },
+                { label: 'Precisionist Observer', link: '/resources/essay-writing/precisionist-observer/' },
+                { label: 'Systems Explainer', link: '/resources/essay-writing/systems-explainer/' },
+                { label: 'Formal Moralist', link: '/resources/essay-writing/formal-moralist/' },
+                { label: 'Engaging Narrator', link: '/resources/essay-writing/engaging-narrator/' },
+              ]
+            },
+            { 
+              label: 'Literary Analysis with Personas',
+              items: [
+                { label: 'Literary Analysis Overview', link: '/resources/literary-analysis/' },
+                { label: 'Precisionist Observer', link: '/resources/literary-analysis/precisionist-observer-analysis/' },
+                { label: 'Intimate Confidante', link: '/resources/literary-analysis/intimate-confidante-analysis/' },
+                { label: 'Authoritative Expert', link: '/resources/literary-analysis/authoritative-expert-analysis/' },
+                { label: 'Passionate Advocate', link: '/resources/literary-analysis/passionate-advocate-analysis/' },
+                { label: 'Contemplative Inquirer', link: '/resources/literary-analysis/contemplative-inquirer-analysis/' },
+                { label: 'Engaging Narrator', link: '/resources/literary-analysis/engaging-narrator-analysis/' },
+                { label: 'Witty Commentator', link: '/resources/literary-analysis/witty-commentator-analysis/' },
+                { label: 'Formal Moralist', link: '/resources/literary-analysis/formal-moralist-analysis/' },
+                { label: 'Philosophical Investigator', link: '/resources/literary-analysis/philosophical-investigator-analysis/' },
+                { label: 'Systems Explainer', link: '/resources/literary-analysis/systems-explainer-analysis/' },
               ]
             },
             {
