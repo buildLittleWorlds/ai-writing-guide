@@ -3,6 +3,8 @@ import starlight from '@astrojs/starlight';
 import mdx from '@astrojs/mdx';
 
 export default defineConfig({
+  site: 'https://buildlittleworlds.github.io',
+  base: '/ai-writing-guide',
   integrations: [
     starlight({
       title: 'AI Writing Guide',
