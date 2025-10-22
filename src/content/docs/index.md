@@ -8,11 +8,11 @@ hero:
     file: ../../assets/ai-writing-hero.png
   actions:
     - text: Get Started
-      link: /getting-started/
+      link: /ai-writing-guide/getting-started/
       icon: right-arrow
       variant: primary
     - text: View Personas
-      link: /personas/
+      link: /ai-writing-guide/personas/
       icon: external
 ---
 
